@@ -12,49 +12,49 @@
       "value": 2800,
       "creator": "Ethan Collins",
       "id": 2,
-      "url": "/Media/Images/monkey2.avif"
+      "url": "/Media/Images/Monkey2.avif"
     },
     {
       "name": "Leah Ape",
       "value": 2400,
       "creator": "Lucas Novak",
       "id": 3,
-      "url": "/Media/Images/monkey3.jpg"
+      "url": "/Media/Images/Monkey3.jpg"
     },
     {
       "name": "Golden Ape",
       "value": 9200,
       "creator": "Noah Fischer",
       "id": 4,
-      "url": "/Media/Images/monkey4.jpg"
+      "url": "/Media/Images/Monkey4.jpg"
     },
     {
       "name": "Party Ape",
       "value": 3400,
       "creator": "Liam Harrington",
       "id": 5,
-      "url": "/Media/Images/monkey5.jpg"
+      "url": "/Media/Images/Monkey5.jpg"
     },
     {
       "name": "Hipster Ape",
       "value": 4400,
       "creator": "Alexander Dupont",
       "id": 6,
-      "url": "/Media/Images/monkey6.jpg"
+      "url": "/Media/Images/Monkey6.jpg"
     },
     {
       "name": "Emin-Apem",
       "value": 4500,
       "creator": "Henry McAllister",
       "id": 7,
-      "url": "/Media/Images/monkey7.webp"
+      "url": "/Media/Images/Monkey7.webp"
     },
     {
       "name": "Neil Ape-strong",
       "value": 3800,
       "creator": "Finn Johansson",
       "id": 8,
-      "url": "/Media/Images/monkey8.webp"
+      "url": "/Media/Images/Monkey8.webp"
     }
   ]
 }
