@@ -13,6 +13,7 @@ export default function Home() {
       <Head>
         <title>Bored Ape - A Different Stake.</title>
         <meta name="Bored Ape" content="Landing page about out NFT." />
+        <link rel="icon" href="/Media/Images/apeCoin.webp" />
       </Head>
       <SmothScroll>
         <Hero />
