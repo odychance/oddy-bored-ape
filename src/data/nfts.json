@@ -1,0 +1,60 @@
+{
+  "Monkey": [
+    {
+      "name": "Adidas Ape",
+      "value": 5500,
+      "creator": "Oliver Bennett",
+      "id": 1,
+      "url": "/Media/Images/monkey1.jpg"
+    },
+    {
+      "name": "Mari Ape",
+      "value": 2800,
+      "creator": "Ethan Collins",
+      "id": 2,
+      "url": "/Media/Images/monkey2.avif"
+    },
+    {
+      "name": "Leah Ape",
+      "value": 2400,
+      "creator": "Lucas Novak",
+      "id": 3,
+      "url": "/Media/Images/monkey3.jpg"
+    },
+    {
+      "name": "Golden Ape",
+      "value": 9200,
+      "creator": "Noah Fischer",
+      "id": 4,
+      "url": "/Media/Images/monkey4.jpg"
+    },
+    {
+      "name": "Party Ape",
+      "value": 3400,
+      "creator": "Liam Harrington",
+      "id": 5,
+      "url": "/Media/Images/monkey5.jpg"
+    },
+    {
+      "name": "Hipster Ape",
+      "value": 4400,
+      "creator": "Alexander Dupont",
+      "id": 6,
+      "url": "/Media/Images/monkey6.jpg"
+    },
+    {
+      "name": "Emin-Apem",
+      "value": 4500,
+      "creator": "Henry McAllister",
+      "id": 7,
+      "url": "/Media/Images/monkey7.webp"
+    },
+    {
+      "name": "Neil Ape-strong",
+      "value": 3800,
+      "creator": "Finn Johansson",
+      "id": 8,
+      "url": "/Media/Images/monkey8.webp"
+    }
+  ]
+}

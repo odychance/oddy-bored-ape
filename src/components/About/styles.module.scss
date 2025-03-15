@@ -1,0 +1,33 @@
+.containerAbout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+.containerText {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  left: 55%;
+  transform: translateX(-50%);
+  position: absolute;
+  z-index: 1;
+}
+.title {
+  font-size: 10vw;
+  filter: drop-shadow(6px 6px 1px #A7EEB6);
+  opacity: 0;
+
+}
+
+.containerParallax {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
