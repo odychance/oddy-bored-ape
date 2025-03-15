@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react'
 import Lenis from 'lenis'
 
-const SmothScroll = ({children}) => {
+const SmothScroll = ({ children, className }) => {
   const scrollContainerRef = useRef()
 
   useEffect(() => {
@@ -21,7 +21,7 @@ const SmothScroll = ({children}) => {
   }, [])
 
   return (
-    <div ref={scrollContainerRef}>
+    <div ref={scrollContainerRef} className={className}>
       {children}
     </div>
   )

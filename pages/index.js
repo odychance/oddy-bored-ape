@@ -6,6 +6,7 @@ import About from '../src/components/About/About.jsx';
 import SmothScroll from '../src/components/SmothScroll/SmothScroll.jsx';
 import Description from '../src/components/Description/Description.jsx';
 import Head from 'next/head.js';
+import s from "./styles.module.scss"
 
 export default function Home() {
   return (
@@ -15,7 +16,7 @@ export default function Home() {
         <meta name="Bored Ape" content="Landing page about out NFT." />
         <link rel="icon" href="/Media/Images/apeCoin.webp" />
       </Head>
-      <SmothScroll>
+      <SmothScroll className={s["wrapper"]}>
         <Hero />
         <Description text="Bored Ape NFT and ApeCoin give you access, exclusivity, influence, and rewards on Web3." />
         <CallToAction />
