@@ -52,7 +52,7 @@ const Hero = () => {
       <div className={s["callToAction"]}>
         <img src='/Media/Images/monkey1.jpg' alt="adidas" className={s["hero-image"]} ref={heroImage}/>
         <p className={s["cta-text"]} ref={textRef}>Master the digital future with unique NFT&apos;s</p>
-        <ButtonLink text="Learn More." ref={buttonRef}/>
+        <ButtonLink text="Learn More." ref={buttonRef} className={s["btnLink"]}/>
       </div>
     </section>
   )
